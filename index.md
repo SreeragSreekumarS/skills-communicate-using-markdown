@@ -5,4 +5,4 @@
 ##### heading 5
 ###### heading 6
 
-https://octodex.github.com/images/yaktocat.png
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
